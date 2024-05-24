@@ -1,6 +1,6 @@
 # `[tiago] ~/`
 
-#### I'm Tiago. I write code and orchestrate things. I also often rewrite and change my configs unnecessarily.
+#### I write code and orchestrate things. I also often rewrite and change my configs unnecessarily.
 
 Currently working at [IT Aveiro](https://www.it.pt/ITSites/Index/3)<br>
 
