@@ -15,6 +15,6 @@ In no particular order:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,neovim,kubernetes,docker,git,bash,linux,flask,fastapi,java" />
+    <img src="https://skillicons.dev/icons?i=go,py,neovim,kubernetes,docker,git,bash,linux,openstack,flask,fastapi,java" />
   </a>
 </p>
