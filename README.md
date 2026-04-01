@@ -12,5 +12,8 @@ Currently working at [IT Aveiro](https://www.it.pt/ITSites/Index/3)<br>
 - ⭐️ Best Album OAT: [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK)
 
 In no particular order:
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,proxmox,kubernetes,docker,lxc,go,python,prometheus,grafana,vim,neovim,markdown,git,bash)
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=linux,proxmox,kubernetes,docker,lxc,go,python,prometheus,grafana,vim,neovim,markdown,git,bash" />
+  </a>
+</p>
