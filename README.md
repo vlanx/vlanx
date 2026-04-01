@@ -13,4 +13,4 @@ Currently working at [IT Aveiro](https://www.it.pt/ITSites/Index/3)<br>
 
 In no particular order:
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,proxmox,kubernetes,docker,lxc,go,python,prometheus,grafana,vim,neovim,markdown,git,bash")
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,proxmox,kubernetes,docker,lxc,go,python,prometheus,grafana,vim,neovim,markdown,git,bash)
